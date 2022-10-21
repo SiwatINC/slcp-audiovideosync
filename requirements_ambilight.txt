@@ -1,0 +1,5 @@
+siwat-light-control-protocol
+pyautogui
+scipy
+numpy
+pillow
